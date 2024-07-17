@@ -5,7 +5,7 @@ import reflencelogo from "../assets/Reflence.png";
 const Main = () => {
   return (
     <>
-      <div className="h-screen">
+      <div>
         <div className="max-w-[1660px] mx-auto flex flex-col">
           <h1 className="mt-5 px-6">
             <img src={reflencelogo} />
